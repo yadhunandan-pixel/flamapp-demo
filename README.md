@@ -49,7 +49,7 @@ Requirements: Node.js 16+ and npm
 cd web
 npm install
 npm run dev
-# open http://localhost:5173
+# open http://localhost: xxxx
 
 
 If webcam is blocked, simply click Upload Image.
